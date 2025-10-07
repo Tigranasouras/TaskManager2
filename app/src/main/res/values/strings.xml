@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TaskManager</string>
+    <string name="enter_task">Enter Task</string>
+    <string name="who_did_it">Who Did it?</string>
+    <string name="kick_puppies">Kick Puppies</string>
+    <string name="daron">Daron</string>
+    <string name="submit">Submit</string>
+
+    <string-array name="tasks_array">
+        <item>Get Groceries</item>
+        <item>Make food</item>
+        <item>Wash Dishes</item>
+        <item>Take out trash</item>
+        <item>Do homework</item>
+
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
